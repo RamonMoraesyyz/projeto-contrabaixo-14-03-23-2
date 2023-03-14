@@ -1,0 +1,31 @@
+body {
+    background-color: rgba(244, 155, 108, 0.589);
+    align-items: center;
+}
+
+
+body div h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    
+    
+}
+    
+body div h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 23px;
+    
+}
+
+body div img {
+    height: px;
+    width: 200px;
+    
+}
+
+body div p {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+
